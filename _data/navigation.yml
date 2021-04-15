@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Lecture 1"
-    url: /publications/
+    url: /lecture1/
 
   - title: "Lecture 2"
     url: /talks/    
