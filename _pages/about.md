@@ -43,4 +43,4 @@ We will also add some small exercises during the class and give you time to work
 
 # Preparations
 We will use Google colab for the coding parts, therefore no pre-configuration or installation on your machine is necessary. To use Google colab, you need a Google account (same account which is used for gmail, YouTube, etc,...).
-Furthermore, it could be helpful four you, if you can follow the course on two screens or two devices. On one screen you can do the programming exercises, the other screen can then be used for Zoom and to look at the slides. 
+Furthermore, it could be helpful for you, if you can follow the course on two screens or two devices. On one screen you can do the programming exercises, the other screen can then be used for Zoom and to look at the slides. 
