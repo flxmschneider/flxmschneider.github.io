@@ -17,5 +17,5 @@ to share your results.
 | Lecture          | Homework   |                                                              
 | --------         | ------ | 
 |  Lecture_1.ipynb  | Lecture_1_homwork.ipynb   | 
-|Lectue_1_exercises.ipynb  | Lecture_1_homework_solutions.ipynb |
+|[Lectue_1_exercises.ipynb](https://colab.research.google.com/drive/1hm_UzeSpDc1PMYJu01PvoM5Akj3rLevm?usp=sharing)  | Lecture_1_homework_solutions.ipynb |
 | Lecture_1_slides.pdf | x | 
