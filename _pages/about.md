@@ -14,7 +14,7 @@ We will use this website to distribute all course materials which we will use th
 
 # Trainers
 
-- **Felix Schneider**, M.Sc Physics and Computer Science, [send me an e-mail](felix.schneider@tech-academy.io)
+- **Felix Schneider**, M.Sc Physics and Computer Science, [send me an e-mail](mailto:felix.schneider@tech-academy.io)
 - **Tom Schwitzkowski**, M.Sc Business Informatics
 
 # Course Objective
