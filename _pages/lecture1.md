@@ -10,6 +10,7 @@ You will get to know the fundamentals of Python and apply them in small exercise
 Futhermore, you get introduced into Jupyter Notebooks as an environment to execute Python code and
 to share your results.
 
+You can access the lecture via this [Zoom-Link](https://us02web.zoom.us/j/84475605798?pwd=czJJZVJmSnhuZkRVTHNTUjB2ZGVFQT09).
 
 ## Materials
 
