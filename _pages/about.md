@@ -12,6 +12,11 @@ redirect_from:
 Welcome to the course website of *Applied Data Science with Python for Beginners*!
 We will use this website to distribute all course materials which we will use througout the course. You will find all slides and links to the needed Google colabs's for the lectures as well for the homeworks here.
 
+# Trainers
+
+- **Felix Schneider**, M.Sc Physics and Computer Science, [send me an e-mail](felix.schneider@tech-academy.io)
+- **Tom Schwitzkowski**, M.Sc Business Informatics
+
 # Course Objective
 Data analysis plays a critical role in a wide range of academic disciplines and the Python programming language has become one of the standard tools within the Data Science community. This online course will introduce programming with Python in general and how to use it for data analysis. After the successful completion of this course, you will be able 
 - to understand the fundamentals of the Python programming language,
