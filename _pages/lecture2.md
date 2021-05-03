@@ -4,3 +4,14 @@ title: "Lecture 2"
 permalink: /lecture2/
 author_profile: true
 ---
+In this lecture we will learn to use the libraries numpy and pandas to work with data.
+Numpy is a library for scientific computing and many other librariers are built on top of this one.
+Pandas is a data analysis and manipulation tool and the best choice when working with tabular data.
+At the end of this lecture we will also start to use matplotlib for simple plotting.
+
+You can access the lecture via this [Zoom-Link](https://us02web.zoom.us/j/84475605798?pwd=czJJZVJmSnhuZkRVTHNTUjB2ZGVFQT09).
+
+| Lecture          | Homework   |                                                              
+| --------         | ------ | 
+|  [Lecture_2_slides.pdf](https://flxmschneider.github.io/files/lecture_2_slides.pdf) |  | 
+|[Lectue_2_exercises.ipynb](https://colab.research.google.com/drive/1XIvXGCxBOgUAlK072rfJTRmolfcNoEmE?usp=sharing)  | |
