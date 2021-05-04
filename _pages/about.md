@@ -43,8 +43,8 @@ We will also add some small exercises during the class and give you time to work
 | Lecture | Date | Time| Topics
 |--|--|--|--|--|--|--|--|
 | 1 | 27. April 2021 | 18:00 - 19:30  | Fundamentals of Python
-| 2 | 04. April 2021| 18:00 - 19:30 | Data wrangling and visualizations using pandas and matplotlib
-| 3|  11. April 2021| 18:00 - 19:30 | Advanced visualizations with seaborn, modeling with scikit-learn
+| 2 | 04. May 2021| 18:00 - 19:30 | Data wrangling and visualizations using pandas and matplotlib
+| 3|  11. May 2021| 18:00 - 19:30 | Advanced visualizations with seaborn, modeling with scikit-learn
 
 # Preparations
 We will use Google colab for the coding parts, therefore no pre-configuration or installation on your machine is necessary. To use Google colab, you need a Google account (same account which is used for gmail, YouTube, etc,...).
