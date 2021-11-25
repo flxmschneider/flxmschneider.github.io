@@ -14,8 +14,10 @@ We will use this website to distribute all course materials which we will use th
 
 # Trainers
 
-- **Felix Schneider**, M.Sc Physics and Computer Science, [send me an e-mail](mailto:felix.schneider@tech-academy.io)
-- **Tom Schwitzkowski**, M.Sc Business Informatics
+- **Felix Schneider**, Master student Physics and Computer Science, [send me an e-mail](mailto:felix.schneider@tech-academy.io)
+- **Tom Schwitzkowski**, Master student Business Informatics
+- **Manuel Mair am Tinkhof**, Bachelor student Computer Science
+
 
 # Course Objective
 Data analysis plays a critical role in a wide range of academic disciplines and the Python programming language has become one of the standard tools within the Data Science community. This online course will introduce programming with Python in general and how to use it for data analysis. After the successful completion of this course, you will be able 
@@ -32,7 +34,7 @@ What you will learn:
 
  - Syntax and basics of Python and how to use Jupyter Notebooks as a coding environment   
  - Data analysis, data wrangling and data visualization using numpy, pandas and matplotlib   
- - Intro on how touse simple statistical models in Python using scikit-learn
+ - Intro on how use simple statistical models in Python using scikit-learn
 
 # Course Organization
 We will have three lectures, where we will meet via Zoom.
@@ -42,10 +44,10 @@ We will also add some small exercises during the class and give you time to work
 
 | Lecture | Date | Time| Topics
 |--|--|--|--|--|--|--|--|
-| 1 | 27. April 2021 | 18:00 - 19:30  | Fundamentals of Python
-| 2 | 04. May 2021| 18:00 - 19:30 | Data wrangling and visualizations using pandas and matplotlib
-| 3|  11. May 2021| 18:00 - 19:30 | Advanced visualizations with seaborn, modeling with scikit-learn
+| 1 | 02. December 2021 | 18:00 - 20:00  | Fundamentals of Python
+| 2 | 09. December 2021| 18:00 - 20:00 | Data wrangling and visualizations using pandas and matplotlib
+| 3|  16. December 2021| 18:00 - 20:00 | Advanced visualizations with seaborn, modeling with scikit-learn
 
 # Preparations
-We will use Google colab for the coding parts, therefore no pre-configuration or installation on your machine is necessary. To use Google colab, you need a Google account (same account which is used for gmail, YouTube, etc,...).
+We will use [Google colab](https://colab.research.google.com/) for the coding parts, therefore no pre-configuration or installation on your machine is necessary. To use Google colab, you need a Google account (same account which is used for gmail, YouTube, etc,...).
 Furthermore, it could be helpful for you, if you can follow the course on two screens or two devices. On one screen you can do the programming exercises, the other screen can then be used for Zoom and to look at the slides. 
