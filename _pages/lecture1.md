@@ -16,5 +16,5 @@ to share your results.
 
 | Lecture          | Group Exercise / Homework   |                                                              
 | --------         | ------ | 
-|  Lecture_1_slides.pdf | [Lecture_1_GroupExercise.ipynb](https://colab.research.google.com/drive/1Gf3VBRy1oeqFYkPjtbfrP61yZzHw1r9-?usp=sharing)   | 
+|  [Lecture_1_slides.pdf](https://flxmschneider.github.io/files/lecture_3_slides.pdf) | [Lecture_1_GroupExercise.ipynb](https://colab.research.google.com/drive/1Gf3VBRy1oeqFYkPjtbfrP61yZzHw1r9-?usp=sharing)   | 
 |[Lectue_1_exercises.ipynb](https://colab.research.google.com/drive/1hm_UzeSpDc1PMYJu01PvoM5Akj3rLevm?usp=sharing)  |Lecture_1_homework_solutions.ipynb |
