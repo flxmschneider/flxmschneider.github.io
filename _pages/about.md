@@ -12,6 +12,8 @@ redirect_from:
 Welcome to the course website of *Applied Data Science with Python for Beginners*!
 We will use this website to distribute all course materials which we will use througout the course. You will find all slides and links to the needed Google colabs's for the lectures as well for the homeworks here.
 
+We will meet via [Zoom](https://us02web.zoom.us/j/79133972703?pwd=TUJac1FxTS8wZll2bzNmcUVmckJoUT09)
+
 # Trainers
 
 - **Felix Schneider**, Master student Physics and Computer Science, [send me an e-mail](mailto:felix.schneider@tech-academy.io)
