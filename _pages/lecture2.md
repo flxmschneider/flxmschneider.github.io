@@ -16,5 +16,5 @@ At the end of this lecture we will also start to use matplotlib for simple plott
 | Lecture          | Group Exercise / Homework   |                                                              
 | --------         | ------ | 
 |  [Lecture_2_slides.pdf](https://flxmschneider.github.io/files/lecture_2_slides.pdf) | [Lecture_2_GroupExercise.ipynb](https://colab.research.google.com/drive/1bztgRbN9ciZ99qHc07H6cix299XyZKab?usp=sharing)   | 
-|[Lectue_2_exercises.ipynb](https://colab.research.google.com/drive/1XIvXGCxBOgUAlK072rfJTRmolfcNoEmE?usp=sharing)  |Lecture_1_homework_solutions.ipynb |
+|[Lecture_2_exercises.ipynb](https://colab.research.google.com/drive/1XIvXGCxBOgUAlK072rfJTRmolfcNoEmE?usp=sharing)  |Lecture_2_homework_solutions.ipynb |
 
