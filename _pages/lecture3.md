@@ -14,5 +14,5 @@ Furthermore, we will introdruce the scikit-learn library and create simple machi
 | Lecture          | Group Exercise / Homework   |                                                              
 | --------         | ------ | 
 |  [Lecture_3_slides.pdf](https://flxmschneider.github.io/files/Python_Lecture_3.pdf) | [Lecture_3_GroupExercise.ipynb](https://colab.research.google.com/drive/1EKv0CCRQ_W7GkJPJG_enI3k97HIxoMcY?usp=sharing)   | 
-|[Lecture_3_exercises.ipynb](https://colab.research.google.com/drive/1vE2MZSkClQ47gpVg0LC_cyr4tqeumizd?usp=sharing)  | Lecture_3_homework_solutions.ipynb) |
+|[Lecture_3_exercises.ipynb](https://colab.research.google.com/drive/1vE2MZSkClQ47gpVg0LC_cyr4tqeumizd?usp=sharing)  | [Lecture_3_homework_solutions.ipynb](https://colab.research.google.com/drive/1Z8U0FdTGLlldL-EjfF2QdAd2wOfvpT_I?usp=sharing) |
 
